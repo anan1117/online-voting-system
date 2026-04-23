@@ -9,7 +9,7 @@
 
 專案結構
 - `/DB`: 存放 DDL 與 DML 腳本 (符合題目需求)
-- `/src`: Spring Boot 後端代碼
+- `/vote-backend`: Spring Boot 後端代碼
 - `/vote-frontend`: Vue.js 前端代碼
 
 如何執行

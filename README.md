@@ -8,7 +8,7 @@
 - **資料庫**: H2 In-Memory Mode (含 Transaction 事務處理)
 
 專案結構
-- `/DB`: 存放 DDL 與 DML 腳本 (符合題目需求)
+- `/DB`: 存放 DDL 與 DML 腳本
 - `/vote-backend`: Spring Boot 後端代碼
 - `/vote-frontend`: Vue.js 前端代碼
 
